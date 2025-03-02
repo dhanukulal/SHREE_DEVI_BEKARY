@@ -718,12 +718,12 @@ section{
 
 @media (max-width: 768px) {
     .home {
-        height: 40vh; /* Adjust height for better visibility on mobile */
+        height: 50vh; /* Adjust height for better visibility on mobile */
     }
 
     .background-video {
         width: 100vw;
-        height: 40vh;
+        height: 50vh;
         object-fit: cover;
     }
 
